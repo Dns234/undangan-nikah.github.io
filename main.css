@@ -37,6 +37,10 @@ body, p{
     min-height: 40vh;
     margin-top: 30px;
 }
+.whitespace2{
+    min-height: 4vh;
+    margin-top: 30px;
+}
 .invited{
     font-size: 1rem;
 }
